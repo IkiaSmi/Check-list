@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">MyApp</string>
-    <string name="logo">Check List</string>
-    <string name="Add">Add</string>
-    <string name="Delete">Delete</string>
+    <string name="logo">Simple Text</string>
 </resources>
